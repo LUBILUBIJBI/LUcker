@@ -36,3 +36,7 @@ Mouse automation can affect the active application. Use the visible emergency st
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+And https://lubilubijbi.github.io/LUcker.github.io/
+
+is the website for this!
